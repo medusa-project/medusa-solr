@@ -1,0 +1,8 @@
+# non-core files
+configsets
+README.txt
+solr.xml
+zoo.cfg
+
+# IDE files
+.idea
